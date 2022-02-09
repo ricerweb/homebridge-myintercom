@@ -1,5 +1,5 @@
 {
-  "private": false,
+  "private": true,
   "displayName": "myintercom",
   "name": "homebridge-myintercom",
   "version": "1.0.0",
